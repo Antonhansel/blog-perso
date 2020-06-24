@@ -1,11 +1,11 @@
-title: "The Butler"
-baseline: "Your blogging assistant."
-description: "A ready to use static blog, powered by Cecil."
-keywords: "Cecil, Static Site Generator, SSG"
+title: "Antonin.cool"
+baseline: "A personal blog about my adventures in tech."
+description: "My opinions only"
+keywords: "React Node GraphQL Typescript ReactNative React.js Node.js tutorial template boilerplate"
 author: "Arnaud Ligny"
 baseurl: "/"
 canonicalurl: true
-theme: "hyde"
+theme: "garth"
 date:
   format: "j F Y"
   timezone: "Europe/Paris"

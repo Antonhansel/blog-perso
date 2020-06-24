@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# Antonin.cool
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> A personal blog / archive by [Antonin](https://www.linkedin.com/in/antoninribeaud/).

@@ -1,7 +1,7 @@
 ---
 title: "React Performance, pitfalls, traps, optimisation and secrets"
 date: 2020-06-23
-image: /images/princess-mononoke.jpg
+image: /images/react.jpeg
 tags:
   - React
 draft: false
