@@ -1,9 +1,9 @@
 ---
-title: "React Performance, pitfalls, traps, optimisation and secrets"
-date: 2020-06-23
+title: React Performance, pitfalls, traps, optimisation and secrets
+date: 2020-06-23T00:00:00.000Z
 image: /images/react.jpeg
 tags:
-  - React
+  - React Node.js React.js Node Typescript ReactNative Javascript
 draft: false
 ---
 
