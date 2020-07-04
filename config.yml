@@ -5,7 +5,7 @@ keywords: "React Node GraphQL Typescript ReactNative React.js Node.js tutorial t
 author: "Arnaud Ligny"
 baseurl: "/"
 canonicalurl: true
-theme: "garth"
+theme: "hyde"
 date:
   format: "j F Y"
   timezone: "Europe/Paris"
