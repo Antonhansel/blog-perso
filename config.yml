@@ -5,27 +5,37 @@ keywords: "React Node GraphQL Typescript ReactNative React.js Node.js tutorial t
 author: "Arnaud Ligny"
 baseurl: "/"
 canonicalurl: true
-theme: "hyde"
+theme: Hyde
 date:
   format: "j F Y"
   timezone: "Europe/Paris"
 output:
   formats:
     - name: netlify_redirects
-      mediatype: "text/plain"
+      mediatype: text/plain
       extension: ""
+keywords: React Node GraphQL Typescript ReactNative React.js Node.js tutorial
+  template boilerplate
+author: Arnaud Ligny
+title: Antonin.cool
+description: My opinions only
+baseurl: /
+canonicalurl: true
+date:
+  format: j F Y
+  timezone: Europe/Paris
 virtualpages:
   - path: admin
-    title: "Content Manager (Netlify CMS)"
+    title: Content Manager (Netlify CMS)
     layout: admin/index
     output: html
   - path: _redirects
     output: netlify_redirects
 netlify:
   cms:
-    path: "admin"
-    version: "latest"
+    path: admin
+    version: latest
   identity:
-    version: "v1"
+    version: v1
 postprocess:
   enabled: true
