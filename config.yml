@@ -1,5 +1,5 @@
 baseline: A personal blog about my adventures in tech.
-theme: Hyde
+theme: hyde
 output:
   formats:
     - name: netlify_redirects
