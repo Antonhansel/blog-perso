@@ -4,50 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7a1bb60c0d4a390add0b8bd36673546e",
+    "content-hash": "d86c7513147589e7a7282083c5bb71b7",
     "packages": [
-        {
-            "name": "cecil/theme-garth",
-            "version": "1.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/Cecilapp/theme-garth.git",
-                "reference": "9bba8ce9d8dbf5823217042127345e34c212a02b"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/Cecilapp/theme-garth/zipball/9bba8ce9d8dbf5823217042127345e34c212a02b",
-                "reference": "9bba8ce9d8dbf5823217042127345e34c212a02b",
-                "shasum": ""
-            },
-            "require": {
-                "cecil/theme-installer": "^1.3"
-            },
-            "type": "cecil-theme",
-            "extra": {
-                "name": "garth",
-                "branch-alias": {
-                    "dev-master": "1.x-dev"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "Cecil Garth theme",
-            "keywords": [
-                "Garth",
-                "cecil",
-                "theme"
-            ],
-            "funding": [
-                {
-                    "url": "https://www.paypal.me/narno",
-                    "type": "custom"
-                }
-            ],
-            "time": "2020-05-19T18:49:02+00:00"
-        },
         {
             "name": "cecil/theme-hyde",
             "version": "1.16.0",
